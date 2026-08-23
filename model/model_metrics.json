@@ -1,0 +1,22 @@
+{
+    "model_type": "MultinomialNB + TF-IDF (1-2 ngrams)",
+    "total_samples": 80,
+    "spam_samples": 40,
+    "ham_samples": 40,
+    "vocabulary_size": 1473,
+    "accuracy": 0.95,
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1_score": 0.9473684210526315,
+    "confusion_matrix": [
+        [
+            10,
+            0
+        ],
+        [
+            1,
+            9
+        ]
+    ],
+    "trained_at": "2026-08-23 15:46:43"
+}
